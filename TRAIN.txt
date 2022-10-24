@@ -1,0 +1,10 @@
+St-Petersburg Moscow 15 thursday 6 30
+St-Petersburg Adler 22 monday 22 45
+St-Petersburg Vladivostok 34 monday 17 38
+Murmansk Adler 511 monday 7 55
+Tyumen Yekaterinburg 113 friday 17 36
+Omsk Tomsk 69 sunday 22 11
+Sevastopol Moscow 123 monday 7 25
+Kyiv Moscow 228 tuesday 13 37
+Moscow Vladivostok 100 saturday 15 15
+Moscow Adler 317 wednesday 16 25
